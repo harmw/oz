@@ -1,5 +1,5 @@
 <!-- An example that shows how to do a basic install of FreeBSD 10.0
-     i386 using the ISO type install.
+     x86_64 using the ISO type install.
 -->
 <template>
   <name>freebsd10</name>
